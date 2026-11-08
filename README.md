@@ -23,7 +23,4 @@ client.Login(ctx)
 A voz fica no pacote `zynko.org/go/voice` (precisa do [ffmpeg](https://ffmpeg.org) instalado).
 Exemplos em [`examples/`](examples): `ping`, `dado` (comandos, cartão e botão) e `musica`.
 
-Enquanto o módulo não está publicado, use a pasta do repositório com uma diretiva `replace`
-no seu `go.mod` (veja a documentação).
-
 Documentação completa: **[docs.zynko.org/bots/go](https://docs.zynko.org/bots/go)**.
